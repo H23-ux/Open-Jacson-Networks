@@ -18,10 +18,25 @@ Visual components and Python
 
 ## Experiment:
 
+![image](https://github.com/user-attachments/assets/8725852b-df72-40e7-808e-dd4916161141)
+
+
+![image](https://github.com/user-attachments/assets/d0380482-fc0f-43bd-acd7-fb0b1f7a0f90)
+
+
 
 ## Program
+
+![image](https://github.com/user-attachments/assets/5a91e42b-8d04-42f4-8545-a4435af32216)
 
 
 ## Output
 
+![image](https://github.com/user-attachments/assets/1b7d3725-fd5a-4a63-98a5-3b669be4f50f)
+
+
 ## Result
+
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
+
+
